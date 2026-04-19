@@ -1,5 +1,6 @@
 ## Smart-Attendance
-Smart-Attendance is a next-generation attendance management system that leverages AI to ensure accuracy and security. By combining Face Recognition and Voice Recognition, the platform provides a seamless, touchless, and fraud-proof way to track attendance for schools, offices, or events.
+
+* Smart-Attendance is a next-generation attendance management system that leverages AI to ensure accuracy and security. By combining Face Recognition and Voice Recognition, the platform provides a seamless, touchless, and fraud-proof way to track attendance for schools, offices, or events.
 ------------------------------
 ## 🚀 Key Features
 
